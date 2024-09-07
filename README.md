@@ -1,5 +1,5 @@
 <h1 align="center">Webpage Top 100 books</h1>
-Esse foi meu primeiro projeto feito em Python, onde foi criada uma webpage simples seguindo um curso da Asimov, utilizando o framework <strong>Streamlit</strong>b e as bibliotecas do <strong>Pandas</strong> e <strong>Plotly</strong>.
+Esse foi meu primeiro projeto feito em Python no Mu Editor, onde foi criada uma webpage simples seguindo um curso da Asimov, utilizando o framework <strong>Streamlit</strong>b e as bibliotecas do <strong>Pandas</strong> e <strong>Plotly</strong>.
 <br></br>
 
 <h3>Funcionamento da Webpage</h3>
